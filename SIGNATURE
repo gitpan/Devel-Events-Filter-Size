@@ -14,11 +14,16 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-
+SHA1 bae9262013e96560c37bf21448af7af73209c210 MANIFEST
+SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
+SHA1 b324cff9b4369835a95f3b894c7bc6b161d2a3f4 META.yml
+SHA1 08cd6457dcdca27a16b4b0f94518bab63a5786a5 Makefile.PL
+SHA1 1c4aeb493ca6d2e0de0c28975aa260c154aa844f lib/Devel/Events/Filter/Size.pm
+SHA1 180b782c8e83328cabc47fcdf7c805164a935553 t/024_filter_size.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFG6H0iVCwRwOvSdBgRAhv5AJ4o3TqQfjU+CtMtb2hVsTGc/d5dfgCfT5V5
-Tg9OrYgJZfdKkruVLjqyw0Y=
-=t1v6
+iD8DBQFG6JnYVCwRwOvSdBgRAkqjAJ9Pz6m79+qTbN6yoyicZgoNmlNkEwCgrMvE
+ruG6sF9xYZFxjtBFDFB0Pus=
+=njgd
 -----END PGP SIGNATURE-----
